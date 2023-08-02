@@ -6,8 +6,8 @@
 #     print("Login band, yangi login tanlang!")
 # else:
 #     print("Xush kelibsiz, foydalanuvchi!")
-n=int(input("Istalgan son kiriting>>>"))
-for s in range(2,11):
-    if n%s==0:
-        print(f"{n} soni {s} ga qoldiqsiz bo'linadi")
-        
+# n=int(input("Istalgan son kiriting>>>"))
+# for s in range(2,11):
+#     if n%s==0:
+#         print(f"{n} soni {s} ga qoldiqsiz bo'linadi")
+        #assalomu alaykum
